@@ -218,3 +218,5 @@ $ cd env
 $ source bin/activate
 (env)$
 ```
+
+[Examen Práctico](examen-practico.ipynb)
