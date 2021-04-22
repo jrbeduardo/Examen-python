@@ -1,5 +1,5 @@
 # Examen
 
-[Examen Teorico](examen-teorico.md)
+[Examen Teórico](examen-teorico.md)
 
-[Examen Practico](examen-practico.ipynb)
+[Examen Práctico](examen-practico.ipynb)
