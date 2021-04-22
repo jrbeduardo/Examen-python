@@ -150,8 +150,8 @@ La función `id()` recibe como argumento un objeto y retorna otro objeto que sir
 
 Para eliminar un archivo se emplea el modulo `os` y la función `remove()`.
 ~~~
-	from os import remove  
-	remove("archivo.txt")
+from os import remove  
+remove("archivo.txt")
 ~~~
 12. **¿Qué es un "diccionario"?**
 
